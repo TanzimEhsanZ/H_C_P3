@@ -1,0 +1,27 @@
+@media screen and (max-width:400px) {
+    .nav-content{
+        flex-direction: column;
+  
+        
+    }
+    .nav-frist{
+
+      width: 100%;
+      margin-left: 90px;
+      margin-bottom: 10px;
+ 
+
+    }
+    .nav-second{
+        flex-direction: column;
+        width: 100%;
+        
+    }
+    .nav-second a{
+        margin-top: 10px;
+    }
+    .nav-btn{
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+}
